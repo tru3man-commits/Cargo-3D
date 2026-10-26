@@ -2,7 +2,7 @@
 
 **Magyar · English · Deutsch**
 
-Raktér 3D is an open-source, browser-based 3D cargo loading planner. Arrange pallets, boxes and other goods in a configurable vehicle cargo space, either automatically or by hand. The interface is available in Hungarian, English and German.
+Cargo 3D is an open-source, browser-based 3D cargo loading planner. Arrange pallets, boxes and other goods in a configurable vehicle cargo space, either automatically or by hand. The interface is available in Hungarian, English and German.
 
 ## Features
 
