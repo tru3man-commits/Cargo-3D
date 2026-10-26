@@ -1,4 +1,4 @@
-# Raktér 3D · Cargo Space Planner
+# Cargo 3D · Cargo Space Planner
 
 **Magyar · English · Deutsch**
 
